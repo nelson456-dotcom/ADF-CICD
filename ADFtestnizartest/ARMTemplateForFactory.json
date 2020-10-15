@@ -5,7 +5,7 @@
 		"factoryName": {
 			"type": "string",
 			"metadata": "Data Factory name",
-			"defaultValue": "ADFtestnizarteste"
+			"defaultValue": "ADFtestnizartest"
 		},
 		"AzureBlobStorage1_connectionString": {
 			"type": "secureString",
@@ -27,7 +27,7 @@
 			"properties": {
 				"activities": [
 					{
-						"name": "Copy data1",
+						"name": "Copydatanizar",
 						"type": "Copy",
 						"dependsOn": [],
 						"policy": {
